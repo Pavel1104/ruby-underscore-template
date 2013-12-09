@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
 
   s.files = Dir["README.md", "LICENSE", "lib/**/*.rb"]
 
-  s.add_dependency 'sprockets', '~> 2.1.3'
+  s.add_dependency 'sprockets', '~> 2.2.1'
   s.add_development_dependency "execjs", "~> 0.4"
 
   s.authors = ["Jean-Sébastien Ney"]
